@@ -128,7 +128,7 @@ const FeedbackForm = ({ onClose }) => {
               <Rating
                 name="rating"
                 component="div"
-                value={values.rating || 5}
+                value={values.rating || 4}
                 itemStyles={styledRating}
                 style={{
                   maxWidth: 128,
