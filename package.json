@@ -1,6 +1,7 @@
 {
   "name": "goosetrack-group-7",
   "private": true,
+  "homepage": "https://github.com/KaterynaNikitina.github.io/my-app",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
